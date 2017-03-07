@@ -5,3 +5,4 @@ int c
 c = a+b
 
 print c
+print a
