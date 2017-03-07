@@ -4,4 +4,4 @@ int c
 
 c = a+b
 
-
+print c
